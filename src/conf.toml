@@ -1,0 +1,16 @@
+[server]
+ip_address = "10.175.96.241"
+server_port = 55055
+access_ports = [22,53,123,80,443]
+
+
+[auth]
+pre_shared_key = "6rHvrdTclgrRPOjclevU"
+pre_shared_iv = "OGyfuckihucc0R02Xd6i"
+
+
+[local]
+local_port = 34254
+identifier = "shailendra.thakur@gmail.com"
+ip_address = "10.175.98.119"
+client_id = "client1"
