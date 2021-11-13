@@ -1,4 +1,4 @@
-![example workflow](https://github.com/readall/privclient/actions/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/readall/privclient/actions/workflows/rust.yml/badge.svg)
 
 # privclient
 This is a client to https://github.com/readall/privaccess
